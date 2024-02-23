@@ -1,0 +1,32 @@
+O despertador toca
+Pego o celular
+Desativo o despertador
+Levanto da cama
+Caminho em direção ao banheiro
+    Se o banheiro estiver ocupado volto para a cama e verifico novamente em alguns minutos
+Se não estiver ocupado
+    Entro no banheiro
+Tiro a roupa
+Ligo o chuveiro
+Tomo banho
+Desligo o chuveiro
+Uso a toalha para me secar
+Escovo os dentes
+Saio do banheiro
+Vou para o quarto
+Escolho uma roupa e me visto
+Saio do quarto
+Vou à cozinha para tomar café da manhã
+Preparo e tomo meu café da manhã
+Vou para o banheiro escovar os dentes novamente
+     Se o banheiro estiver ocupado vou para a sala aguardar uns minutos antes de verificar novamente
+Se não estiver ocupado
+    Entro no banheiro
+Escovo os dentes
+Saio do banheiro
+Vou para o quarto
+Ligo o notebook
+Sento na cadeira
+Acesso a plataforma da EBAC
+Faço Login
+Continuo estudando java
